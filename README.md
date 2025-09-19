@@ -16,4 +16,3 @@ Como usar:
 
 Observações:
 - Este projeto usa SQLite para facilitar execução sem dependências externas.
-- O "consumer" é baseado em leitura de arquivos para facilitar demo offline; você pode adaptar para Kafka/Rabbit/etc.
