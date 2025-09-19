@@ -1,0 +1,48 @@
+// {
+//   "uuid": "3030-499f-39f949",
+//   "created_at": "2025-09-01T22:33:00Z",
+//   "type": "AB",
+//   "customer": {
+//     "id": 99494,
+//     "name": "joao da silva",
+//     "email": "joao.silva@email.com",
+//     "document": "123.456.789-00"
+//   },
+//   "hotel": {
+//     "id": 123,
+//     "name": "Hotel Exemplo",
+//     "city": "S\u00e3o Paulo",
+//     "state": "SP"
+//   },
+//   "rooms": [
+//     {
+//       "id": 1,
+//       "room_number": "101",
+//       "daily_rate": 300.0,
+//       "number_of_days": 3,
+//       "checkin_date": "2025-09-15",
+//       "checkout_date": "2025-09-18",
+//       "category": {
+//         "id": "AM",
+//         "name": "Apartamento Master",
+//         "sub_category": {
+//           "id": "BCRU",
+//           "name": "Bangal\u00f4 Cruzeiro"
+//         }
+//       },
+//       "status": "confirmed",
+//       "guests": 2,
+//       "breakfast_included": true
+//     }
+//   ],
+//   "payment": {
+//     "method": "credit_card",
+//     "status": "approved",
+//     "transaction_id": "txn_123456789"
+//   },
+//   "metadata": {
+//     "source": "website",
+//     "user_agent": "Mozilla/5.0",
+//     "ip_address": "192.168.1.1"
+//   }
+// }
